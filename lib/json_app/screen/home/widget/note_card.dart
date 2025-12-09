@@ -1,7 +1,4 @@
 import 'dart:developer';
-
-import 'package:coder_note/controller/delete.dart';
-import 'package:coder_note/screen/note_add_edit/ui.dart';
 import 'package:flutter/material.dart';
 
 import '../../../widgets/text.dart';

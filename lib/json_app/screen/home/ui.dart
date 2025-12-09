@@ -1,9 +1,8 @@
 import 'dart:developer';
-
-import 'package:coder_note/controller/get.dart';
-import 'package:coder_note/screen/home/widget/note_card.dart';
+import 'package:coder_note/json_app/screen/home/widget/note_card.dart';
 import 'package:flutter/material.dart';
 import '../../controller/delete.dart';
+import '../../controller/get.dart';
 import '../../widgets/text.dart';
 import '../note_add_edit/ui.dart';
 

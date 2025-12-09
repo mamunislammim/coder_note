@@ -1,9 +1,9 @@
 import 'dart:developer';
-
-import 'package:coder_note/controller/add.dart';
-import 'package:coder_note/controller/update.dart';
-import 'package:coder_note/widgets/text.dart';
 import 'package:flutter/material.dart';
+
+import '../../controller/add.dart';
+import '../../controller/update.dart';
+import '../../widgets/text.dart';
 
 class NoteAddEditScreen extends StatefulWidget {
   const NoteAddEditScreen({super.key, required this.screenType, this.note, this.id});
